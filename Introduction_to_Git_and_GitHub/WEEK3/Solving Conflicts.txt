@@ -1,0 +1,16 @@
+1. If you’re making changes to a local branch while another user has also made changes to the remote branch, which command will trigger a merge?
+    git pull
+
+2. Which of the following is a reason to use rebase instead of merging? 
+    When you want to keep a linear commit history
+
+3. Where should we keep the latest stable version of the project?
+    A separate branch from the master 
+
+4. Which of the following statements represent best practices for collaboration? (check all that apply)
+    a.It makes sense to have separate feature branch
+    b.Always sync your branches before starting your won work
+    c.Avoid having large changes that modify lot of things
+
+5. What command would we use to change the base of the current branch?
+    git rebase <branchname>
