@@ -1,0 +1,6 @@
+1. Where does the CPU store its computations?
+    Registers
+
+2. Which mechanisms do we use to transport binary data and memory addresses? Check all that apply.
+    The External Data Bus
+    Address Bus
