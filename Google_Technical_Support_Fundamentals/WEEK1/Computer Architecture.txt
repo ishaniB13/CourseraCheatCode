@@ -1,0 +1,6 @@
+1. What are the four layers of the computer architecture?
+    Hardware, Operating System, Software, User
+
+2. Write a paragraph on examples of abstraction that you encounter in your day-to-day life. For example, driving a car is an example of abstraction, you don't need to understand how a car works underneath the hood in order to drive one.
+    In this case of abstraction, we can put up quite a few examples. For example, I am using the pen to write my assignments. But i don't know how the ink is flowing or reaching the nib and from there to the paper. I don't have any idea about the working mechanism of then pen, all i know is that i can use it for writing.
+    Another example can be, using the computer to write an email or some code. We don't have to specifically know about the zeros and ones layout that are programmed, and for which all this operations are executable.
